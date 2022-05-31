@@ -1,1 +1,8 @@
-# URL_short
+# URL-short
+
+- This is a simple flask app which takes a URL and shortens it. This shortened verion of the URL redirects to the user to the long URL. For each long URL given by the user the application randomly generates an alphabetical combination which redirects to the long URL.
+
+## Contributors
+
+- [DAVID QUIGLEY](https://github.com/AverKill)
+- [KHARI-LEIGH MILLER](https://github.com/kharileigh)
